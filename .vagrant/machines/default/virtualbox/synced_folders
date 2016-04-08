@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/andagain":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/andagain","hostpath":"C:/Users/SEVEN/Documents/GitHub/andagain","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/SEVEN/Documents/GitHub/andagain","disabled":false}}}

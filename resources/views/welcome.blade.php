@@ -46,19 +46,20 @@
 	</div>
 </header>
 
-<div class="container-fluid main" id="page-top">
+<  <div class="container-fluid main" id="page-top">
 	<div class="row">
 		<div class="col-md-12 backg">
 			<div class="col-md-4 col-md-offset-4 inner col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-3">
-				<div class="text-box">
+			<!-- 	<div class="text-box">
                 	<p class="intro">Introducing</p>
                     <h2>Ravalic</h2>
                     <h3>A Free Responsive HTML5 Template</h3>
                     <p>By <span><a href="http://www.html5layouts.com">HTML5 Layouts</a></span></p>
                     <p><a href="#" class="link-button">Tell Me Something</a></p>
-				</div>
-  			</div>
-		</div>
+				</div>  -->
+				
+  			</div> 
+		</div> 
 		<div class="col-md-12 some-notes">
 			<div class="title">
                 <h2>Welcome To Ravalic</h2>
@@ -68,7 +69,7 @@
             </div>
 		</div>
 	</div>
-</div>
+</div> 
 
 <div class="container-fluid features" id="section2">
 	<div class="container">
@@ -315,6 +316,7 @@
 
 
 
+
 <div class="container-fluid footer">
 	<div class="row">
 		<div class="col-md-12">
@@ -322,6 +324,8 @@
 		</div>
 	</div>
 </div>
+
+
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>

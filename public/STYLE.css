@@ -61,13 +61,13 @@
 		background-size: cover;
 		color: white;
 		cursor: default;
-		padding: 180px 0 120px;
+		padding: 400px 0 120px;
 		text-align: center;
 		width: 100%;
 		float: left;
 
 }
-@-moz-keyframes reveal-banner { 0% { opacity: 0; } 100% { opacity: 1; } }
+/* @-moz-keyframes reveal-banner { 0% { opacity: 0; } 100% { opacity: 1; } }
 @-webkit-keyframes reveal-banner { 0% { opacity: 0; } 100% { opacity: 1; } }
 @-o-keyframes reveal-banner { 0% { opacity: 0; } 100% { opacity: 1; } }
 @-ms-keyframes reveal-banner { 0% { opacity: 0; } 100% { opacity: 1; } }
@@ -92,7 +92,7 @@
 	padding: 20px 40px;
 	text-align: center;
 	
-}
+}*/
 .text-box
 {
 	font-family: 'Poppins', sans-serif;
@@ -547,4 +547,5 @@ input[placeholder], [placeholder], *[placeholder] {
     margin-top: 15px;
     width: 80% !important;
 }
+
 }
